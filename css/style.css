@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main-header{
+    height: 18px;
+}
+
+.menu-button {
+    color: #391E6D;
+    text-decoration: none;
+    text-align: center;
+    margin-right: 10px;
+    display: block;
+    float: right;
+    position: relative;
+    top: 10px;
+    width: 33px;
+    height: 33px;
+    border: none;
+    z-index: 10;
+}
+
+.menu-icon{
+    width: 25px;
+    height: 33px;
+}
+
+.menu-button:hover{
+    background-color: rgba(0,0,0,0.15);
+    border-radius: 4px;
+}
