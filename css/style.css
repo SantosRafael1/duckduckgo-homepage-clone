@@ -3,8 +3,13 @@
     padding: 0;
 }
 
+.main{
+    background-color: #AFD2EC;
+}
+
 .main-header{
     height: 18px;
+    background-color: #AFD2EC;
 }
 
 .menu-button {
@@ -30,4 +35,26 @@
 .menu-button:hover{
     background-color: rgba(0,0,0,0.15);
     border-radius: 4px;
+}
+
+.header-container{
+    height: 50px;
+}
+
+.icon{
+    width: 104px;
+    height: 104px;
+}
+
+.middle-section{
+    max-width: 1070px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.hiker-img{
+    width: 100%;
 }
