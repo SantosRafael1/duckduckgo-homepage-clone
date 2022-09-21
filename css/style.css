@@ -76,3 +76,26 @@
     max-width: 610px;
     text-align: center;
 }
+
+.page-about{
+    background-color: #230545;
+    height: 270px;
+    position: relative;
+    top: -5px;
+}
+
+.text-about-container{
+    height: inherit;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-about {
+    color: #fff;
+    font-size: 21px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 750px;
+    text-align: center;
+    font-weight: 300;
+}
