@@ -3,9 +3,6 @@
     padding: 0;
 }
 
-.main{
-    background-color: #AFD2EC;
-}
 
 .main-header{
     height: 18px;
@@ -39,6 +36,7 @@
 
 .header-container{
     height: 50px;
+    background-color: #AFD2EC;
 }
 
 .icon{
@@ -47,12 +45,13 @@
 }
 
 .middle-section{
-    max-width: 1070px;
+    max-width: auto;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-color: #AFD2EC;
 }
 
 .hiker-img{
