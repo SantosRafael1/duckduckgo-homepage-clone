@@ -108,3 +108,13 @@
     height: 2px;
     background-color: #3FA4F2;
 }
+
+.about-small-title{
+    color: #80748F;
+    padding: 0px;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 1.6px;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+}
