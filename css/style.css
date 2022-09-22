@@ -79,7 +79,7 @@
 
 .page-about{
     background-color: #230545;
-    height: 300px;
+    height: 370px;
     position: relative;
     top: -5px;
 }
@@ -117,4 +117,55 @@
     letter-spacing: 1.6px;
     text-transform: uppercase;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.section-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    position: relative;
+    margin-top: 20px;
+    top: -90px;
+}
+
+.fact-cards{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: 266px;
+    padding: 16px 0px 30px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    box-sizing: border-box;
+    color: #333;
+    box-shadow: 0 22px 48px -12px rgb(0 0 0 / 12%);
+    border-radius: 4px;
+    background-color: #fff;
+}
+
+.card-title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 44px;
+    margin-bottom: 9px;
+    font-weight: bold;
+    line-height: 1;
+    color: #111;
+}
+
+.card-subtitle{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    line-height: 1;
+    margin-bottom: 15px;
+    font-weight: bold;
+    color: #111;
+}
+
+.card-text{
+    padding: 0px;
+    font-size: 16px;
+    line-height: 1;
+    color: #666;
 }
