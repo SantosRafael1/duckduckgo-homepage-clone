@@ -202,3 +202,45 @@
     width: 100px;
     height: 100px;
 }
+
+/*story section*/
+.story-section {
+    background-color: #fff;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: normal;
+    justify-content: space-around;
+    align-items: center;
+    height: 541px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.img-story{
+    display: flex;
+    justify-content: center;
+}
+
+.arrows{
+    width: 40px;
+    height: 40px;
+    background-color: #EEE;
+    border-radius: 50%;
+}
+
+.abt-title{
+    font-size: 36px;
+    font-weight: bold;
+    columns: #222;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.abt-paragraph{
+    color: #494949;
+    max-width: 550px;
+    font-size: 18px;
+    margin: 0 auto;  
+    text-align: center;  
+}
