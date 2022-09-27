@@ -293,3 +293,11 @@
     width: 50px;
     margin: 0px;
 }
+
+/*about blog*/
+.abt-blog{
+    background-color: #f7f7f7;
+    padding-top: 95px;
+    padding-bottom: 95px;
+    text-align: center;
+}
