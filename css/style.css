@@ -421,3 +421,7 @@
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
+
+.apply-button:hover{
+    border: 1px solid #474747;
+}
