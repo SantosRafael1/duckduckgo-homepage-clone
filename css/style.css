@@ -331,7 +331,7 @@
 }
 
 .blog-card-article{
-    height:410px;
+    height:350px;
     width: 300px;
     padding: 20px;
     box-shadow: 0 22px 48px -12px rgb(0 0 0 / 12%);
@@ -340,6 +340,7 @@
     display: flex;
     align-items: center;
     flex-direction: column;
+    background-color: #fff;
 }
 
 .blog-card-article-img{
