@@ -396,5 +396,27 @@
     max-width: 550px;
     color: #494949;
     font-weight: 500;
-    
+
+}
+
+.apply-button{
+    margin-top: 30px;
+    width: 100%;
+    max-width: 260px;
+    background-color: #66ABFF;
+    text-transform: none;
+    box-sizing: border-box;
+    border-radius: 22px;
+    font-size: 14px;
+    letter-spacing: 0.7px;
+    height: 42px;
+    line-height: 37px;
+    border:none;
+    color: #fff;
+    font-weight: 600;
+    outline: none;
+    padding: 2px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
 }
