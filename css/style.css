@@ -507,3 +507,10 @@
     text-decoration: underline;
     color: blue;
 }
+
+.abt-newletter-little-text{
+    color: #888;
+    font-size: .8333em;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 18px;
+}
