@@ -427,6 +427,7 @@
     border: 1px solid #474747;
 }
 
+/*newletter and privacy section*/
 .newletter-section{
     text-align: center;
     background-color: #f7f7f7;
@@ -449,4 +450,26 @@
     color: #494949;
     margin: 0 auto;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.email-address-div{
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.email-input{
+    background-color: #fff;
+    height: 44px;
+    font-size: 14px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    outline: none;
+    border: 1px solid #e6e6e6;
+    text-align: center;
+    margin-bottom: 25px;
 }
