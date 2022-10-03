@@ -426,3 +426,27 @@
 .apply-button:hover{
     border: 1px solid #474747;
 }
+
+.newletter-section{
+    text-align: center;
+    background-color: #f7f7f7;
+    padding: 100px 0;
+}
+
+.newletter-title{
+    margin-bottom: 20px;
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 1;
+    color: #222;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.newletter-paragraph{
+    max-width: 400px;
+    margin-bottom: 20px;
+    font-size: 21px;
+    color: #494949;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
