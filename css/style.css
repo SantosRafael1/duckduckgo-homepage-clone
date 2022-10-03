@@ -452,6 +452,16 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.newletter-paragraph a{
+    color: #4495d4;
+    text-decoration: none;
+}
+
+.newletter-paragraph a:hover{
+    text-decoration: underline;
+    color: blue;
+}
+
 
 .email-address-div{
     margin-top: 25px;
